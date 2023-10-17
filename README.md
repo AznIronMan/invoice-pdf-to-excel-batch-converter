@@ -1,7 +1,7 @@
 # PDF to Excel Batch Converter
 - **Version**: v1.10
 - **Date**: 10.17.2023 @ 10:00 PST
-- **Developed for**: Casey Ryan (cryan@swfirefightingfoam.com) of SW Firefighting Foam & Equipment, LLC
+- **Developed for**: C. Ryan of SW Firefighting Foam & Equipment, LLC
 
 ## Overview
 This Python script is designed to batch-convert PDF files to Excel spreadsheets. The code is well-structured and modular, with specific functionalities encapsulated in specialized functions. It was written specifically for the structued PDFs provided by SW Firefighting Foam & Equipment, LLC, but can be easily adapted for other PDFs.
